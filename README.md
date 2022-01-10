@@ -1,3 +1,6 @@
+Оригинальный репозиторий.  
+https://github.com/wyyerd/pulsar-rs.  
+
 ## Pulsar
 #### Future-based Rust client for [Apache Pulsar](https://pulsar.apache.org/)
 
